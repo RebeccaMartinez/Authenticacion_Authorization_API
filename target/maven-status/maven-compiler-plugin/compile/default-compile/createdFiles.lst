@@ -1,0 +1,10 @@
+models\JdbcUserDataDAO.class
+controllers\AuthorizationAPI.class
+models\JdbcUserRoleDAO.class
+controllers\AuthenticationAPI.class
+models\UserRoleDAO.class
+models\UserDataDAO.class
+models\MicroServicesDAO.class
+models\UserData.class
+models\Message.class
+models\JdbcMicroServicesDAO.class
